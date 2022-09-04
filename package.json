@@ -1,10 +1,10 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "obsi-client",
+    "preductname": "obsi-client",
     "version": "1.0.2",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
-    "author": "Luuxis",
+    "author": "harden et potassium",
     "url": "http://launcher.selvania.fr",
     "engines": {
         "node": "16.x.x"
